@@ -1,3 +1,11 @@
 git
 git hub
 java
+NoSQL
+others
+kick
+
+rick@appsolutionimc.com
+appssolutionsinc
+
+https://learn.microsoft.com/en-us/windows/wsl/install-manual
